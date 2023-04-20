@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj and my handle is @GRajR.
-- 👀 I’m interested in everything exponential technologies (AI, blockchain etc) and how they apply healthcare.
+- 👀 I’m interested in everything exponential technologies (AI, blockchain etc) and how they apply to healthcare.
 - 🌱 I’m currently learning LLM and Generative AI.
 - 💞️ I love building platform centric organizations.
 
